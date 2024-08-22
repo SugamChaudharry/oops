@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/examples/e1/e1.iml" filepath="$PROJECT_DIR$/examples/e1/e1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exps/exp1/exp1.iml" filepath="$PROJECT_DIR$/exps/exp1/exp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exps/exps.iml" filepath="$PROJECT_DIR$/exps/exps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scalive.iml" filepath="$PROJECT_DIR$/scalive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/src/src.iml" filepath="$PROJECT_DIR$/examples/src/src.iml" />
+    </modules>
+  </component>
+</project>
